@@ -1,2 +1,1 @@
-# YongLiuLab.github.io
-Yong Liu's Lab
+A GitHub Pages for Dr. Zuo's academic website. 
