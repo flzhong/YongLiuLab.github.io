@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "xinian"
+  name             : "Yong Liu"
   avatar           : "profile-pencil-circle.png"
-  bio              : "Applied Mathematician and Brain Scientist, Professor at Beijing Normal University"
+  bio              : "School of Artificial Intelligence, Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zuo+XN&sort=date"
-  googlescholar    : "http://scholar.google.com/citations?user=a3-gVGMAAAAJ&hl=en"
-  email            : "xinian.zuo#bnu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Xi-Nian_Zuo"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9Z4RbA8AAAAJ"
+  email            : "yongliu@bupt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yong_Liu72"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zuoxinian"
+  github           : "YongLiuLab"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9110-585X"
+  orcid            : "http://orcid.org/0000-0002-1862-3121"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zuoxinian"
+  twitter          : "YongLiuBrain"
   vine             :
   weibo            :
   xing             :
