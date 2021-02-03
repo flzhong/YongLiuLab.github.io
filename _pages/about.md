@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Discovery science of the human brain"
+title: "Discovery science of the brain in Alzheimer Disease"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-It is the greatest challenge to open up the black-box of human brain. My long-term goal is to understand the complexity of human brain, especially its connectome (i.e., the comprehensive high-dimensional description of the brain network). I use integrative neuroimaging and computational modeling methods to explore development-related patterns and complexity in connectomics, seeking knowledge that will translate into a better life style and education settings as well as diagnosis/treatment for patients by establishing normative trajectories of the conenctome across the human lifespan. 
+It is the greatest challenge to open up the black-box of human brain. My long-term goal is to understand the complexity change of AD brain, especially its structure, connectome. I use integrative neuroimaging and computational modeling methods to explore AD-related patterns and complexity in connectomics, seeking knowledge that will translate into diagnosis/treatment for AD patients by establishing normative trajectories of the conenctome. 
 
 Research summary
 ======

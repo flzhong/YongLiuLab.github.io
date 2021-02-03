@@ -1,7 +1,7 @@
 ---
 title: "Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimer's disease: diagnosis, longitudinal progress and biological basis"
 collection: publications
-permalink: /publication/2020-07-15-paper-title-number-8
+permalink: /publication/2020-07-15-paper-title-number-2
 excerpt: 'This work represents a large and interdisciplinary effort to develop and validate AD neuroimaging biomarkers. Utilizing large multisite neuroimaging datasets and radiomics profiles, the present study developed novel biomarkers that, to the best of our knowledge, are the first personalized, reproducible and scientifically interpretable biomarkers for AD. This systematic study highlights the presence of hippocampal textural abnormalities in AD and the possibility that textures can serve as neuroimaging biomarkers for AD for further clinical applications.'
 date: 2020-07-15
 venue: 'Science Bulletin'
