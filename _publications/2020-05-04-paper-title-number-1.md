@@ -1,9 +1,9 @@
 ---
 title: "Grab‐AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease"
 collection: publications
-permalink: /publication/2020-07-15-paper-title-number-2
-excerpt: 'This work represents a large and interdisciplinary effort to develop and validate AD neuroimaging biomarkers. Utilizing large multisite neuroimaging datasets and radiomics profiles, the present study developed novel biomarkers that, to the best of our knowledge, are the first personalized, reproducible and scientifically interpretable biomarkers for AD. This systematic study highlights the presence of hippocampal textural abnormalities in AD and the possibility that textures can serve as neuroimaging biomarkers for AD for further clinical applications.'
-date: 2020-07-15
+permalink: /publication/2020-05-04-paper-title-number-1
+excerpt: 'This paper comprehensively characterize AD-associated functional brain alterations using one of the world's largest resting-state functional MRI (fMRI) biobank for the disorder.The findings highlight the potential for a reproducible and generalizable functional brain imaging biomarker to aid the early diagnosis of AD and track its progression.'
+date: 2020-05-04
 venue: 'Science Bulletin'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927320302140'
 citation: 'Zhao K, Ding YH, Han Y, Fan Y, Alexander-Bloch AF, Han T, Jin D, Liu B, Lu J, Song CY, Wang P, Wang DW, Wang Q, Xu KB, Yang HW, Yao HX, Zheng YJ, Yu CS, Zhou B, Zhang XQ, Zhou YY, Jiang TZ, Zhang X, Liu Y, ADNI,  MCADI. Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimers disease: diagnosis, longitudinal progress and biological basis. Science Bulletin. 2020;65(13):1103-13. '
