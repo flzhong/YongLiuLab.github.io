@@ -1,5 +1,5 @@
 ---
-title: "Grab‐AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimers Disease"
+title: "Grab‐AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimer's Disease"
 collection: publications
 permalink: /publication/2020-05-04-paper-title-number-3
 excerpt: 'This paper comprehensively characterize AD-associated functional brain alterations using one of the world's largest resting-state functional MRI (fMRI) biobank for the disorder.The findings highlight the potential for a reproducible and generalizable functional brain imaging biomarker to aid the early diagnosis of AD and track its progression'
