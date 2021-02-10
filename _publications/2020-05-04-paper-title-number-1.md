@@ -1,9 +1,9 @@
 ---
 title: "Harnessing reliability for neuroscience research"
 collection: publications
-permalink: /publication/2019-06-28-paper-title-number-1
+permalink: /publication/2020-05-04-paper-title-number-1
 excerpt: 'This comment focuses on reliability in neuroimaging and provides examples of how the reliability can be increased.'
-date: 2019-06-28
+date: 2020-05-04
 venue: 'Nature Human Behaviour'
 paperurl: 'https://rdcu.be/bH2iL'
 citation: 'Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.'
