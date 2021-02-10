@@ -12,6 +12,6 @@ Hippocampal morphological change is one of the main hallmarks of Alzheimer's dis
 
 <img src='/images/KunZhao_CSB_Cover.png' align="middle"><br/>
 
-[Download paper here](http://yongliulab.github.io/files/Zhao-2020-Science Bulletin.pdf)
+[Download paper here](http://yongliulab.github.io/files/Zhao-2020-ScienceBulletin.pdf)
 
-Recommended citation: Zhao K, Ding YH, Han Y, Fan Y, Alexander-Bloch AF, Han T, Jin D, Liu B, Lu J, Song CY, Wang P, Wang DW, Wang Q, Xu KB, Yang HW, Yao HX, Zheng YJ, Yu CS, Zhou B, Zhang XQ, Zhou YY, Jiang TZ, Zhang X, Liu Y, ADNI,  MCADI. Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimers disease: diagnosis, longitudinal progress and biological basis. [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin). 2020;65(13):1103-13., 65(22):1824-1834.
+Recommended citation: Zhao K, Ding YH, Han Y, Fan Y, Alexander-Bloch AF, Han T, Jin D, Liu B, Lu J, Song CY, Wang P, Wang DW, Wang Q, Xu KB, Yang HW, Yao HX, Zheng YJ, Yu CS, Zhou B, Zhang XQ, Zhou YY, Jiang TZ, Zhang X, Liu Y, ADNI,  MCADI. Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimers disease: diagnosis, longitudinal progress and biological basis. [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin). 2020;65(13):1103-13.

@@ -14,4 +14,4 @@ Neuroscientists are amassing the large-scale datasets needed to study individual
 
 Read this paper via the [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25023)
 
-Recommended citation: Jin D, Wang P, Zalesky A, Liu B, Song C, Wang D, Xu K, Yang H, Zhang Z, Yao H, Zhou B, Han T, Zuo N, Han Y, Lu J, Wang Q, Yu C, Zhang X, Zhang X, Jiang T, Zhou Y, Liu Y. &quot;Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimers Disease.&quot; [<i>Human Brain Mapping</i>](https://onlinelibrary.wiley.com/journal/10970193), 2020;41:3379-3391.
+Recommended citation: Jin D, Wang P, Zalesky A, Liu B, Song C, Wang D, Xu K, Yang H, Zhang Z, Yao H, Zhou B, Han T, Zuo N, Han Y, Lu J, Wang Q, Yu C, Zhang X, Zhang X, Jiang T, Zhou Y, Liu Y. Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimers Disease. [<i>Human Brain Mapping</i>](https://onlinelibrary.wiley.com/journal/10970193), 2020;41:3379-3391.
