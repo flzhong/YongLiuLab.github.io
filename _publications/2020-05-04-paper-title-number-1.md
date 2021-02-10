@@ -2,7 +2,7 @@
 title: "Grab-AD: Generalizability and reproducibility of altered brain activity and diagnostic classification in Alzheimers Disease"
 collection: publications
 permalink: /publication/2020-05-04-paper-title-number-1
-excerpt: 'The primary aim of the present study is to comprehensively characterize AD-associated functional brain alterations using one of the world's largest resting-state functional MRI biobank for the disorder.'
+excerpt: 'The primary aim of the present study is to comprehensively characterize AD-associated functional brain alterations using one of the worlds largest resting-state functional MRI biobank for the disorder.'
 date: 2020-05-04
 venue: 'Human Brain Mapping'
 paperurl: 'https://rdcu.be/bH2iL'
