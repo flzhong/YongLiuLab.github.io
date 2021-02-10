@@ -1,17 +1,17 @@
 ---
-title: "tst"
+title: "Harnessing reliability for neuroscience research"
 collection: publications
-permalink: /publication/2020-05-04-paper-title-number-1
-excerpt: 'This work represents a large and interdisciplinary effort to develop and validate AD neuroimaging biomarkers. Utilizing large multisite neuroimaging datasets and radiomics profiles, the present study developed novel biomarkers that, to the best of our knowledge, are the first personalized, reproducible and scientifically interpretable biomarkers for AD. This systematic study highlights the presence of hippocampal textural abnormalities in AD and the possibility that textures can serve as neuroimaging biomarkers for AD for further clinical applications.'
-date: 2020-07-15
-venue: 'Science Bulletin'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927320302140'
-citation: 'Zhao K, Ding YH, Han Y, Fan Y, Alexander-Bloch AF, Han T, Jin D, Liu B, Lu J, Song CY, Wang P, Wang DW, Wang Q, Xu KB, Yang HW, Yao HX, Zheng YJ, Yu CS, Zhou B, Zhang XQ, Zhou YY, Jiang TZ, Zhang X, Liu Y, ADNI,  MCADI. Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimers disease: diagnosis, longitudinal progress and biological basis. Science Bulletin. 2020;65(13):1103-13. '
+permalink: /publication/2019-06-28-paper-title-number-1
+excerpt: 'This comment focuses on reliability in neuroimaging and provides examples of how the reliability can be increased.'
+date: 2019-06-28
+venue: 'Nature Human Behaviour'
+paperurl: 'https://rdcu.be/bH2iL'
+citation: 'Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.'
 ---
-Hippocampal morphological change is one of the main hallmarks of Alzheimer's disease (AD). However, whether hippocampal radiomic features are robust as predictors of progression from mild cognitive impairment (MCI) to AD dementia and whether these features provide any neurobiological foundation remains unclear. The primary aim of this study was to verify whether hippocampal radiomic features can serve as robust magnetic resonance imaging (MRI) markers for AD. Multivariate classifier-based support vector machine (SVM) analysis provided individual-level predictions for distinguishing AD patients (n = 261) from normal controls (NCs; n = 231) with an accuracy of 88.21% and intersite cross-validation. Further analyses of a large, independent the Alzheimer’s Disease Neuroimaging Initiative (ADNI) dataset (n = 1228) reinforced these findings. In MCI groups, a systemic analysis demonstrated that the identified features were significantly associated with clinical features (e.g., apolipoprotein E (APOE) genotype, polygenic risk scores, cerebrospinal fluid (CSF) Aβ, CSF Tau), and longitudinal changes in cognition ability; more importantly, the radiomic features had a consistently altered pattern with changes in the MMSE scores over 5 years of follow-up. These comprehensive results suggest that hippocampal radiomic features can serve as robust biomarkers for clinical application in AD/MCI, and further provide evidence for predicting whether an MCI subject would convert to AD based on the radiomics of the hippocampus. The results of this study are expected to have a substantial impact on the early diagnosis of AD/MCI.
+Neuroscientists are amassing the large-scale datasets needed to study individual differences and identify biomarkers. However, measurement reliability within individual samples is often suboptimal, thereby requiring unnecessarily large samples. We focus our comment on reliability in neuroimaging and provide examples of how the reliability can be increased.
 
-<img src='/images/KunZhao_CSB_Cover.png' align="middle"><br/>
+<img src='/images/MTI-500x300.jpg' align="middle"><br/>
 
-[Download paper here](http://yongliulab.github.io/files/Zhao-2020-Science Bulletin.pdf)
+Read this paper via the [Springer Nature SharedIt Initiative](https://rdcu.be/bH2iL)
 
-Recommended citation: Zhao K, Ding YH, Han Y, Fan Y, Alexander-Bloch AF, Han T, Jin D, Liu B, Lu J, Song CY, Wang P, Wang DW, Wang Q, Xu KB, Yang HW, Yao HX, Zheng YJ, Yu CS, Zhou B, Zhang XQ, Zhou YY, Jiang TZ, Zhang X, Liu Y, ADNI,  MCADI. Independent and reproducible hippocampal radiomic biomarkers for multisite Alzheimers disease: diagnosis, longitudinal progress and biological basis. [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin). 2020;65(13):1103-13., 65(22):1824-1834.
+Recommended citation: Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; [<i>Nature Human Behaviour</i>](https://www.nature.com/nathumbehav), 3:768–771.
