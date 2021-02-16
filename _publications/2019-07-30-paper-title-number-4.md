@@ -1,0 +1,17 @@
+---
+title: "ASAF: altered spontaneous activity fingerprinting in Alzheimer's disease based on multisite fMRI"
+collection: publications
+permalink: /publication/2019-07-30-paper-title-number-4
+excerpt: 'This work represents a large and interdisciplinary effort to develop and validate AD neuroimaging biomarkers. Utilizing large multisite neuroimaging datasets and radiomics profiles, the present study developed novel biomarkers that, to the best of our knowledge, are the first personalized, reproducible and scientifically interpretable biomarkers for AD. This systematic study highlights the presence of hippocampal textural abnormalities in AD and the possibility that textures can serve as neuroimaging biomarkers for AD for further clinical applications.'
+date: 2019-07-30
+venue: 'Science Bulletin'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927320302140'
+citation: "Li JC, Jin D, Li A, Liu B, Song CY, Wang P, Wang DW, Xu KB, Yang HW, Yao HX, Zhou B, Bejanin A, Chetelat G, Han T, Lu J, Wang Q, Yu CS, Zhang XQ, Zhou YY, Zhang X, Jiang TZ, Liu Y, Han Y. ASAF: altered spontaneous activity fingerprinting in Alzheimer's disease based on multisite fMRI. Science Bulletin 2019;64:998-1010."
+---
+Several monocentric studies have noted alterations in spontaneous brain activity in Alzheimer's disease (AD), although there is no consensus on the altered amplitude of low-frequency fluctuations in AD patients. The main aim of the present study was to identify a reliable and reproducible abnormal brain activity pattern in AD. The amplitude of local brain activity (AM), which can provide fast mapping of spontaneous brain activity across the whole brain, was evaluated based on multisite rs-fMRI data for 688 subjects (215 normal controls (NCs), 221 amnestic mild cognitive impairment (aMCI) 252 AD). Two-sample t-tests were used to detect group differences between AD patients and NCs from the same site. Differences in the AM maps were statistically analyzed via the Stouffer's meta-analysis. Consistent regions of lower spontaneous brain activity in the default mode network and increased activity in the bilateral hippocampus/parahippocampus, thalamus, caudate nucleus, orbital part of the middle frontal gyrus and left fusiform were observed in the AD patients compared with those in NCs. Significant correlations (P < 0.05, Bonferroni corrected) between the normalized amplitude index and Mini-Mental State Examination scores were found in the identified brain regions, which indicates that the altered brain activity was associated with cognitive decline in the patients. Multivariate analysis and leave-one-siteout cross-validation led to a 78.49% prediction accuracy for single-patient classification. The altered activity patterns of the identified brain regions were largely correlated with the FDG-PET results from another independent study. These results emphasized the impaired brain activity to provide a robust and reproducible imaging signature of AD. 
+
+<img src='/images/KunZhao_CSB_Cover.png' align="middle"><br/>
+
+[Download paper here](http://yongliulab.github.io/files/Li-2019-ScienceBulletin.pdf)
+
+Recommended citation: Li JC, Jin D, Li A, Liu B, Song CY, Wang P, Wang DW, Xu KB, Yang HW, Yao HX, Zhou B, Bejanin A, Chetelat G, Han T, Lu J, Wang Q, Yu CS, Zhang XQ, Zhou YY, Zhang X, Jiang TZ, Liu Y, Han Y. ASAF: altered spontaneous activity fingerprinting in Alzheimer's disease based on multisite fMRI.[<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin). 2019;64:998-1010.
