@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-07-28-paper-title-number-3
 excerpt: 'This work highlights the potential for structural brain imaging to provide a generalizable, and neuroscientifically interpretable imaging biomarker that can support clinicians in the early diagnosis of AD.'
 date: 2020-07-28
-venue: 'Science Bulletin'
+venue: 'Advanced Science'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927320302140'
 citation: "Jin D, Zhou B, Han Y, Ren J, Han T, Liu B, Lu J, Song C, Wang P, Wang D, Xu J, Yang Z, Yao H, Yu C, Zhao K, Wintermark M, Zuo N, Zhang X, Zhou Y, Zhang X, Jiang T, Wang Q, Liu Y. Generalizable, Reproducible, and Neuroscientifically Interpretable Imaging Biomarkers for Alzheimer's Disease. Adv Sci (Weinh) 2020;7:2000675."
 ---
